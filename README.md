@@ -1,4 +1,3 @@
-Copy code
 <h1 align="center">Hi 👋, I'm Parth</h1>
 
 <p>With over 3 years of expertise in Business Data Analysis and certifications in Data Visualization with Tableau, Power BI, and Agile Scrum, I've honed my skills in transforming complex data into actionable insights. As a proactive problem solver and agile collaborator, I've effectively utilized tools like SQL, R, Python, and Excel to drive strategic decision-making.</p>
